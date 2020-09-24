@@ -20,6 +20,7 @@ W3schools: https://www.w3schools.com/default.asp
 Youtube: https://www.youtube.com/watch?v=fOvYE1i_IiY
 
 ## URL
+https://smith-carlicia.github.io/Password-Generator/.
 
 ## Repo URL
 https://github.com/smith-carlicia/Password-Generator.git
